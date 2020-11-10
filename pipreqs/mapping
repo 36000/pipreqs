@@ -931,6 +931,7 @@ puresasl:pure_sasl
 pwiz:peewee
 pxssh:pexpect
 py7zlib:pylzma
+pyAFQ:AFQ
 pyAMI:pyAMI_core
 pyarsespyder:arsespyder
 pyasdf:asdf
